@@ -59,7 +59,7 @@ streamlit.write('The user entered ', fruit_choice)
 # put result into a readable table
 
 # don't run snowflake section
-streamlit.stop()
+# streamlit.stop()
 
 
 
